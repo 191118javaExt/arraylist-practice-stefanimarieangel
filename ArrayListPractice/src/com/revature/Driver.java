@@ -7,7 +7,7 @@ import com.revature.list.MyArrayList;
 
 public class Driver {
 	
-	private static final int AMOUNT = 1000;
+	private static final int AMOUNT = 10;
 
 	public static void main(String[] args) {
 		ArrayList<Integer> reglist = new ArrayList<>();
